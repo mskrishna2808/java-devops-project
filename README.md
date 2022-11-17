@@ -1,1 +1,2 @@
-# java-devops-project
+## Simple java Project for Beginners in DevOps
+
